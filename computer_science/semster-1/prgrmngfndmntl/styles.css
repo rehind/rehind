@@ -5,18 +5,20 @@ body {
 }
 
 h1 {
-  margin-bottom: 600px;
+  margin-bottom: 50px;
   font-size: 60px;
 }
 
 h3 {
   font-weight: 200;
   font-size: 36px;
+  margin-bottom: 250px
 }
 
 h4 {
   font-weight: 100;
   font-size: 50px;
+  margin-bottom: 150px;
 }
 
 .top {
@@ -135,8 +137,8 @@ hr{
   margin: auto auto 100px auto;
 }
 .rehind {
+  margin: auto ;
   position: absolute;
-  right: 0;
-  bottom: 0;
+  bottom: 10px;
   font-weight: 100;
 }
