@@ -28,7 +28,7 @@ h4 {
 }
 
 .image {
-  margin-top
+  margin-top;
   border-radius: 50%;
 }
 
@@ -71,9 +71,9 @@ a,.semster {
 }
 
 .insta-div {
-  margin: auto auto 200px auto;
-  max-width: 8%;
-  height: 70px;
+  margin: 200px auto 200px auto;
+  max-width: 7%;
+  height: 65px;
   position: relative;
   border-radius: 20px;
   transition: border-radius 0.5s;
@@ -82,7 +82,7 @@ a,.semster {
 i {
   color: black;
   margin-top: 15px;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 i:hover {
@@ -134,14 +134,15 @@ hr{
   border-style: dotted;
    
 }
+a.instagram {
+    margin-top: 200px;
+}
 
 .head {
   margin: auto auto 100px auto;
 }
 .rehind {
   margin: 40px auto 80px auto ;
-  font-size: 24px;
-  position: absolute;
-  left:50%;
+  font-size: 20px;
   font-weight: 100;
 }
