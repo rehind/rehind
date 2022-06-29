@@ -66,8 +66,7 @@ h4 {
 }
 
 .insta-div {
-  margin: auto;
-  background-color: white;
+  margin: auto auto 200px auto;
   max-width: 8%;
   height: 70px;
   position: relative;
@@ -82,15 +81,12 @@ i {
 }
 
 i:hover {
-  color: white;
+  background-color: none;
+  color:white;
 }
 
-.insta-div:hover {
-  background-color: #eb3434;
-  border-radius: 50px;
-  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
-    -6px -6px 12px rgba(255, 255, 255, .15);
-  overflow: hidden;
+.insta-div>a:hover {
+  background-color: red;
 }
 
 a {
@@ -134,3 +130,4 @@ a:hover {
   bottom: 0;
   font-weight: 100;
 }
+
