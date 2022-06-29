@@ -43,7 +43,7 @@ h4 {
   margin: 100px auto 100px auto;
 }
 
-.semster {
+a,.semster {
   color: #2c7359;
   background-color: white;
   width: 70%;
@@ -104,7 +104,7 @@ a {
 }
 
 a:hover {
-  background-color: #e6a46e;
+  background-color: #B09B71;
   color: black;
   border-radius: 40px;
   box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .practice:hover {
-  background-color: #0362fc;
+  background-color:  #e6a46e;
   color: black;
   border-radius: 40px;
   box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
@@ -130,4 +130,3 @@ a:hover {
   bottom: 0;
   font-weight: 100;
 }
-
