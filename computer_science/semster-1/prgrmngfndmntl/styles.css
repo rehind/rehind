@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  color: #87805E;
+  background-color: #cdc2ae;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+  font-weight: 200;
+  font-size: 36px;
+}
+
+h4 {
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.top {
+  font-size: 60px;
+  margin: 50px auto;
+}
+
+.image {
+  border-radius: 50%;
+}
+
+.group {
+  font-weight: 50;
+}
+
+.xerhatn {
+  font-weight: 900;
+  width: 80%;
+  font-size: 24px;
+  margin: 60px 0% 70px 10%;
+}
+
+.buttoms {
+  position: relative;
+  margin: 100px auto 100px auto;
+}
+
+.semster {
+  color: #2c7359;
+  background-color: white;
+  width: 70%;
+  border-radius: 10px;
+  transition: border-radius 0.5s;
+  display: block;
+  margin: 30px auto 20px auto;
+  padding: 23px;
+  text-decoration: none;
+  font-size: 200%;
+}
+
+.semster:hover {
+  background-color: #B09B71;
+  color: black;
+  border-radius: 40px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
+    -6px -6px 12px rgba(255, 255, 255, .15);
+  overflow: hidden;
+}
+
+.insta-div {
+  margin: auto;
+  background-color: white;
+  max-width: 8%;
+  height: 70px;
+  position: relative;
+  border-radius: 20px;
+  transition: border-radius 0.5s;
+}
+
+i {
+  color: black;
+  margin-top: 15px;
+  font-size: 40px;
+}
+
+i:hover {
+  color: white;
+}
+
+.insta-div:hover {
+  background-color: #eb3434;
+  border-radius: 50px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
+    -6px -6px 12px rgba(255, 255, 255, .15);
+  overflow: hidden;
+}
+
+a {
+  margin: 20px auto 10px auto;
+  background-color: white;
+  color: #2c7359;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+  width: 70%;
+  transition: border-radius 0.5s;
+}
+
+a:hover {
+  background-color: #e6a46e;
+  color: black;
+  border-radius: 40px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
+    -6px -6px 12px rgba(255, 255, 255, .15);
+  overflow: hidden;
+}
+
+.practice:hover {
+  background-color: #0362fc;
+  color: black;
+  border-radius: 40px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
+    -6px -6px 12px rgba(255, 255, 255, .15);
+  overflow: hidden;
+}
+
+.head {
+  margin: auto auto 100px auto;
+
+.rehind {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-weight: 100;
+}
