@@ -28,6 +28,7 @@ h4 {
 }
 
 .image {
+  margin-top
   border-radius: 50%;
 }
 
@@ -139,7 +140,8 @@ hr{
 }
 .rehind {
   margin: 40px auto 80px auto ;
+  font-size: 24px;
   position: absolute;
-  left:45%;
+  left:50%;
   font-weight: 100;
 }
