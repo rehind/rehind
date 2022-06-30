@@ -89,7 +89,7 @@ i:hover {
 }
 
 a {
-  margin: 20px auto 10px auto;
+  margin: 30px auto 10px auto;
   background-color: #E4DCCF;
   color: #2c7359;
   text-decoration: none;
@@ -97,7 +97,7 @@ a {
   padding: 300%;
   text-align: center;
   border-radius: 10px;
-  font-size: 20px;
+  font-size: 300%;;
   width: 70%;
   transition: border-radius 0.5s;
 }
