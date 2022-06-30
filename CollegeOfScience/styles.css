@@ -19,7 +19,7 @@ body{
 }
 a {
   margin: 20px auto 10px auto;
-  background-color: white;
+  background-color: #E4DCCF;
   color: #2c7359;
   text-decoration: none;
   display: block;
@@ -33,7 +33,7 @@ a {
 
 a:hover {
   background-color: #576F72;
-  color: white;
+  color: #E4DCCF;
   border-radius: 40px;
   box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
     -6px -6px 12px rgba(255, 255, 255, .15);
