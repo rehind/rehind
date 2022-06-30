@@ -1,0 +1,41 @@
+body{
+  background-color: #7D9D9C;
+  margin: 0;
+  text-align: center;
+}
+.about-div{
+  text-align: left;
+  background-color: #E4DCCF;
+  width: 60%;
+  margin-top: 80px;
+  position: relative;
+  margin-left: -43%;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  transition: margin 2s;
+}
+.about-div:hover{
+  margin-left: 0;
+}
+a {
+  margin: 20px auto 10px auto;
+  background-color: white;
+  color: #2c7359;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+  width: 70%;
+  transition: border-radius 0.5s;
+}
+
+a:hover {
+  background-color: #576F72;
+  color: white;
+  border-radius: 40px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, .15),
+    -6px -6px 12px rgba(255, 255, 255, .15);
+  overflow: hidden;
+}
