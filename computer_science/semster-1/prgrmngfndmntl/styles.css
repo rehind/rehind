@@ -120,6 +120,10 @@ a:hover {
   overflow: hidden;
 }
 
+.practice{
+  background-color: #EDDBC0 ;
+}
+
 .head {
   margin: auto auto 100px auto;}
 hr{
